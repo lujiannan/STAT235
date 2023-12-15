@@ -1,4 +1,4 @@
-STAT 235 - Fall 2023
+# STAT 235 - Fall 2023
 Basic Statistics Introduction
 
 Access my notion notebook:
